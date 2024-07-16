@@ -1,0 +1,6 @@
+
+# vscode config files
+.vscode/
+
+# test folder
+test_files/
